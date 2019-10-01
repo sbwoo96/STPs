@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_photo"
+        android:icon="@drawable/outline_insert_photo_black_24"
+        android:title="@string/photo" />
+
+    <item
+        android:id="@+id/navigation_album"
+        android:icon="@drawable/outline_album_black_24"
+        android:title="@string/album" />
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/outline_map_black_24"
+        android:title="@string/map" />
+
+    <item
+        android:id="@+id/navigation_user"
+        android:icon="@drawable/outline_person_outline_black_24"
+        android:title="@string/user" />
+</menu>
